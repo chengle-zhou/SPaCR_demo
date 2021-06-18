@@ -27,7 +27,7 @@ The code is for the work, if you find it is useful, please cite our work:
 	title={Spatial Peak-Aware Collaborative Representation for Hyperspectral Imagery Classification},  
 	author={Zhou, Chengle and Tu, Bing and Ren, Qi and Chen, Siyuan},  
 	journal={IEEE Geoscience and Remote Sensing},  
-	year={2020},  
+	year={2021},  
     volume={},  
 	number={},  
 	pages={1-5},  
