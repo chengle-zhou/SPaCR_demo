@@ -4,7 +4,7 @@
 
 ***Chengle Zhou, Bing Tu, Qi Ren, Siyuan Chen***
 
-*IEEE Geoscience and Remote Sensing, 2021, to be published.*
+*IEEE Geoscience and Remote Sensing, 2021, Early Access, 11 June 2021*
 
 [DOI:10.1109/LGRS.2021.3083416](https://ieeexplore.ieee.org/document/9452044)
 
