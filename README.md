@@ -1,4 +1,4 @@
-# SPaCR
+#### SPaCR | IEEE GRSL 2021 | HSI Classification
 ---
 ## Spatial Peak-Aware Collaborative Representation for Hyperspectral Imagery Classification
 
